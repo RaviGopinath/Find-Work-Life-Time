@@ -1,0 +1,43 @@
+.circle1{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    background-color:brown;
+    border-radius: 50%;
+
+}
+.circle2{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    border-radius: 50%;
+    background-color:chartreuse;
+}
+.circle3{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    border-radius: 50%;
+    background-color:darkmagenta;
+}
+#final1{
+    width: 500px;
+    height: 400px;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    border: 2px solid ;
+    width: 500px;
+}
+.heading{
+    border: 2px solid;
+    line-height: 30px;
+}.heading select{
+    padding: 0 9px;
+    margin: 13px 32px;
+    font-size: 20px;
+}
